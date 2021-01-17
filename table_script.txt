@@ -26,3 +26,7 @@ F2 number
 
 
 ##dad scrap
+
+Create table dad_scrap (
+Ff
+)
