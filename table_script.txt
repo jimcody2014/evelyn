@@ -11,3 +11,6 @@ create table evelyn (
 Create table Brian (
 F55 varchar2(80),
 F43 number);
+
+Create table Denise (
+F3 number);
