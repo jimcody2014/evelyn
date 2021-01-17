@@ -1,4 +1,9 @@
 create table abc (
     f1 number,
     f2 number
+);
+
+create table evelyn (
+    f1 date,
+    f2 date
 )
