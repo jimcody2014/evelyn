@@ -1,4 +1,9 @@
 create table abc (
     f1 number,
     f2 number
-)
+);
+
+Create table Brian (
+F55 varchar2(80),
+F43 number);
+
