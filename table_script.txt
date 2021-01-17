@@ -6,4 +6,8 @@ create table abc (
 create table evelyn (
     f1 date,
     f2 date
-)
+);
+
+Create table Brian (
+F55 varchar2(80),
+F43 number);
