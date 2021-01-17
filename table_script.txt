@@ -1,0 +1,4 @@
+create table abc (
+    f1 number,
+    f2 number
+)
